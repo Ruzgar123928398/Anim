@@ -1,0 +1,10 @@
+local Animate = game.Players.LocalPlayer.Character.Animate
+Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=4211223236"
+Animate.run.RunAnim.AnimationId = "http://www.roblox.com/asset/?id=4211220381"
+Animate.idle.Animation1.AnimationId = "http://www.roblox.com/asset/?id=4211217646"
+Animate.idle.Animation2.AnimationId = "http://www.roblox.com/asset/?id=4211218409"
+Animate.jump.JumpAnim.AnimationId = "http://www.roblox.com/asset/?id=4211219390"
+Animate.fall.FallAnim.AnimationId = "http://www.roblox.com/asset/?id=4211216152"
+Animate.climb.ClimbAnim.AnimationId = "http://www.roblox.com/asset/?id=421121499"
+
+game.Players.LocalPlayer.Character.Humanoid.Jump = false
